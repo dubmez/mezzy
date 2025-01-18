@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mezzy/static/css/main.91345385.css",
+    "main.js": "/mezzy/static/js/main.0dcfdba5.js",
+    "static/media/river-mountain.jpg": "/mezzy/static/media/river-mountain.b505556c16bc0002fee4.jpg",
+    "static/media/mountain-reflect.jpg": "/mezzy/static/media/mountain-reflect.be0cfbf32245ef28d9de.jpg",
+    "static/media/change.jpg": "/mezzy/static/media/change.095b51a63927366f9b60.jpg",
+    "static/media/qr-feedback.jpg": "/mezzy/static/media/qr-feedback.4c09084587f6a66d7b87.jpg",
+    "static/media/ls_logo.png": "/mezzy/static/media/ls_logo.443a592e94980e930d99.png",
+    "static/media/zoopla.jpg": "/mezzy/static/media/zoopla.91fced0c89e1314fef76.jpg",
+    "static/media/darkpink.jpg": "/mezzy/static/media/darkpink.82653b6c516f920bbf6b.jpg",
+    "static/media/mck_logo.png": "/mezzy/static/media/mck_logo.4e0ad118a531a1a0c9a7.png",
+    "static/media/sunrise.jpg": "/mezzy/static/media/sunrise.a4a88114c737c170610a.jpg",
+    "static/media/hugo_logo.png": "/mezzy/static/media/hugo_logo.8b88fb4381a3b6570c79.png",
+    "static/media/logo.svg": "/mezzy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mezzy/index.html",
+    "main.91345385.css.map": "/mezzy/static/css/main.91345385.css.map",
+    "main.0dcfdba5.js.map": "/mezzy/static/js/main.0dcfdba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91345385.css",
+    "static/js/main.0dcfdba5.js"
+  ]
+}
