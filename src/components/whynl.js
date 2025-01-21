@@ -22,7 +22,7 @@ return (
 <section class="text-gray-600 bg-gray-900 body-font">
     
     {/* Title */}
-    <div class="container px-20 pt-5 pb-5 mx-auto flex flex-col items-start">
+    <div class="container px-20 pt-5 pb-5 flex flex-col items-start">
         <h1 class="sm:text-3xl text-2xl font-medium title-font text-white mb-4">
             Introducing Netlearn</h1>
         <div class="">
@@ -30,10 +30,10 @@ return (
         </div>
     </div>
    
-    <div class="px-10 pb-10 grid grid-cols-2 justify-items-center">
+    <div class="px-20 pb-10 grid grid-cols-2 justify-items-center">
       
       {/* LHS */}
-      <div class="container mx-auto my-auto">
+      <div class="container my-auto">
 
       <div class="flex relative pb-8 text-left">
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-indigo-500 inline-flex items-center justify-center text-white relative z-10">
