@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mezzy/static/css/main.91345385.css",
-    "main.js": "/mezzy/static/js/main.0dcfdba5.js",
+    "main.js": "/mezzy/static/js/main.c9391755.js",
     "static/media/river-mountain.jpg": "/mezzy/static/media/river-mountain.b505556c16bc0002fee4.jpg",
     "static/media/mountain-reflect.jpg": "/mezzy/static/media/mountain-reflect.be0cfbf32245ef28d9de.jpg",
     "static/media/change.jpg": "/mezzy/static/media/change.095b51a63927366f9b60.jpg",
@@ -15,10 +15,10 @@
     "static/media/logo.svg": "/mezzy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mezzy/index.html",
     "main.91345385.css.map": "/mezzy/static/css/main.91345385.css.map",
-    "main.0dcfdba5.js.map": "/mezzy/static/js/main.0dcfdba5.js.map"
+    "main.c9391755.js.map": "/mezzy/static/js/main.c9391755.js.map"
   },
   "entrypoints": [
     "static/css/main.91345385.css",
-    "static/js/main.0dcfdba5.js"
+    "static/js/main.c9391755.js"
   ]
 }
